@@ -5,7 +5,6 @@
 | 文件 | 说明 |
 | --- | --- |
 | 实验二_图像增强.ipynb | Jupyter版，按2.1~2.6逐节运行，图片直接显示在单元格下方 |
-| 实验二_图像增强.py | 脚本版，一次跑完所有步骤并把图片保存到output_images和result |
 | 实验二_图像增强_实验报告.docx | 实验报告，含5张结果图 |
 | p1.jpg | 原始图像 |
 | output_images/ | 色彩空间转换、噪声对比图 |
@@ -26,12 +25,6 @@
 需要numpy、opencv-python、matplotlib。
 
 Jupyter版：把p1.jpg和notebook放同一目录，Kernel → Restart & Run All。
-
-脚本版：
-
-```
-python 实验二_图像增强.py
-```
 
 ## 结果
 
